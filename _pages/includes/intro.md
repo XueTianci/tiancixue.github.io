@@ -2,4 +2,4 @@ Hi, nice to e-meet you! I am a second-year graduate student at the Department of
 
 My research interests mainly include Alignment, Reasoning and Large Language Models.
 
-I am seeking a Ph.D. position starting from Fall 2024. If you are interested, please let me know!
+**I am seeking a Ph.D. position starting from Fall 2024. If you are interested, please let me know!**
