@@ -23,7 +23,7 @@ baidu_site_verification  :
 author:
   name             : "Tianci Xue (薛天赐)"
   avatar           : "images/my_photo.jpg"
-  bio              : "Bytedance AI Lab"
+  bio              : #"Bytedance AI Lab"
   location         : "Hubei Province"
   employer         :
   pubmed           : 
