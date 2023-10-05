@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Tianci Xue (薛天赐)"
 description              : "A master student at Nanjing University. Focusing on NLP."
-repository               : "XueTianci/xuetianci.github.io"
+repository               : "xuetianci/xuetianci.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
