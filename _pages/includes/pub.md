@@ -17,7 +17,7 @@
 [TADIS: Steering Models for Deep-Thinking about Demonstration Examples](https://arxiv.org/pdf/2310.00901.pdf) \\
 **Tianci Xue**, Ziqi Wang, Yixia Li, Yun Chen, Guanhua Chen
 
-  - Steering LLMs for ``Deep-Thinking'' about demonstration examples instead of merely seeing, which alleviates the illusion of competence of models.
+  - Steering LLMs for "Deep-Thinking" about demonstration examples instead of merely seeing, which alleviates the illusion of competence of models.
 </div>
 </div>
 
