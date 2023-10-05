@@ -22,7 +22,7 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "Tianci Xue (薛天赐)"
-  avatar           : "images/ry_profile.jpeg"
+  avatar           : #"images/ry_profile.jpeg"
   bio              : "Bytedance AI Lab"
   location         : "Singapore"
   employer         :
