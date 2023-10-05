@@ -1,3 +1,7 @@
+Hi, nice to e-meet you! I am a second-year graduate student at the Department of Software, Nanjing University. Currently, I am also a research intern at [Blender NLP](https://blender.cs.illinois.edu/), UIUC, working with Prof. [Heng Ji](https://scholar.google.com/citations?user=z7GCqT4AAAAJ&hl=en).
+My research interests mainly lie in Alignment, Reasoning and Large Language Models.
+I am seeking a PhD position starting from Fall 2024. If you are interested, please let me know!
+
 I work at [Bytedance AI Lab, Speech & Audio Team](https://ailab.bytedance.com/) <img src='./images/tiktok.png' style='width: 6em;'> as a research scientist now in Singapore, leading a fundamental audio/talkingface research group. 
 
 I am now working on TTS, music generation, speech translation and audio-driven talking face generation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [ren.yi@bytedance.com](mailto:ren.yi@bytedance.com).
