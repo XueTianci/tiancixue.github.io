@@ -3,7 +3,7 @@
 - *2022.09 - 2024.06*, Master, Nanjing University. **Rank: 29/231**
 - *2018.09 - 2022.06*, Undergraduate, Hubei University of Technology. **Rank: 1/178**
 
-# 🔖 Service
+# 📌 Service
 - Review Assistant: Neurips 2023
   
 # 💻 Internships
