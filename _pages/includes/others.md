@@ -7,5 +7,5 @@
 - Review Assistant: Neurips 2023
   
 # 💻 Internships
-- *2022.03 - Present*, Intern at BLENDER NLP, UIUC.
-- *2022.07 - Present*, Research Assistant at SUSTECH.
+- *2023.03 - Present*, Intern at BLENDER NLP, UIUC.
+- *2023.07 - Present*, Research Assistant at SUSTECH.
