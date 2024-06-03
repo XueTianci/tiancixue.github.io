@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/PACIT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL</div><img src='images/PACIT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PACIT: Unlocking the Power of Examples for Better In-Context Instruction Tuning](https://openreview.net/pdf?id=7uySifrWkjc) \\
