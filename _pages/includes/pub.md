@@ -7,7 +7,7 @@
 [PACIT: Unlocking the Power of Examples for Better In-Context Instruction Tuning](https://openreview.net/pdf?id=7uySifrWkjc) \\
 **Tianci Xue**, Ziqi Wang, Yixia Li, Yun Chen, Guanhua Chen
 
-  - Steering LLMs for "Deep-Thinking" about demonstration examples instead of merely seeing, which alleviates the illusion of competence of models.
+  - PACIT: a simple and effective in-context instruction tuning method, first verifies the provided example's correctness, then uses this to generate a better response.
 </div>
 </div>
 
