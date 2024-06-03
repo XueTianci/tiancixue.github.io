@@ -1,5 +1,4 @@
-Hi, nice to e-meet you! I am a second-year graduate student at the Department of Software, Nanjing University. Currently, I am also a research intern at [Blender NLP](https://blender.cs.illinois.edu/), UIUC, working with Prof. [Heng Ji](https://scholar.google.com/citations?user=z7GCqT4AAAAJ&hl=en).
+Hi, nice to e-meet you! I am an incoming PhD student at OSU under the supervision of [Prof. Hun Sun](https://scholar.google.com/citations?user=wIFkulcAAAAJ&hl=en). I obtain my master's degree from Nanjing University. Previous, I am also a research intern at [Blender NLP](https://blender.cs.illinois.edu/), UIUC, working with Prof. [Heng Ji](https://scholar.google.com/citations?user=z7GCqT4AAAAJ&hl=en).
 
-My research interests mainly include Alignment, Reasoning and Large Language Models.
+My research interests mainly include Alignment and Reasoning.
 
-**I am seeking a Ph.D. position starting from Fall 2024. If you are interested, please let me know!**
