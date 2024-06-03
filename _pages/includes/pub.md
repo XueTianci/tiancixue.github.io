@@ -1,6 +1,16 @@
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/TADIS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PACIT: Unlocking the Power of Examples for Better In-Context Instruction Tuning](https://openreview.net/pdf?id=7uySifrWkjc) \\
+**Tianci Xue**, Ziqi Wang, Yixia Li, Yun Chen, Guanhua Chen
+
+  - Steering LLMs for "Deep-Thinking" about demonstration examples instead of merely seeing, which alleviates the illusion of competence of models.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/MEET.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -8,16 +18,6 @@
 **Tianci Xue**, Ziqi Wang, Heng Ji
 
 - **MEET**, a novel approach that incorporates parameter-efficient tuning to better optimize control tokens, thus benefitting controllable generation.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/TADIS.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[TADIS: Steering Models for Deep-Thinking about Demonstration Examples](https://arxiv.org/pdf/2310.00901.pdf) \\
-**Tianci Xue**, Ziqi Wang, Yixia Li, Yun Chen, Guanhua Chen
-
-  - Steering LLMs for "Deep-Thinking" about demonstration examples instead of merely seeing, which alleviates the illusion of competence of models.
 </div>
 </div>
 
